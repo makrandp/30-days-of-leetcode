@@ -4,3 +4,7 @@
 
 # Day 1
 - [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%201/589.%20N-ary%20Tree%20Preorder%20Traversal.java)
+
+# Day 2
+- [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%202/590.%20N-ary%20Tree%20Postorder%20Traversal.java)
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%202/145.%20Binary%20Tree%20Postorder%20Traversal.java)
