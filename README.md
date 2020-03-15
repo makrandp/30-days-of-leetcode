@@ -12,3 +12,6 @@
 # Day 3
 - [169. Majority Element](https://leetcode.com/problems/majority-element/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%203/169.%20Majority%20Element.java)
 - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%203/203.%20Remove%20Linked%20List%20Elements.java)
+
+# Day 4
+- [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%204)
