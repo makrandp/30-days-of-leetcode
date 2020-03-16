@@ -15,3 +15,6 @@
 
 # Day 4
 - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%204)
+
+# Day 5
+- [78. Subsets](https://leetcode.com/problems/subsets/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%205)
