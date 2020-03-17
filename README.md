@@ -18,3 +18,6 @@
 
 # Day 5
 - [78. Subsets](https://leetcode.com/problems/subsets/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%205)
+
+# Day 6
+- [90. Subsets II](https://leetcode.com/problems/subsets-ii/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%206)
