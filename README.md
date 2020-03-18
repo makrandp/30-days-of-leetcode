@@ -21,3 +21,8 @@
 
 # Day 6
 - [90. Subsets II](https://leetcode.com/problems/subsets-ii/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%206)
+
+# Day 7
+- [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%207/1352.%20Product%20of%20the%20Last%20K%20Numbers.java)
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%207/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.java)
+- [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%207/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.java)
