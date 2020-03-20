@@ -29,3 +29,8 @@
 
 # Day 8
 - [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%208/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.java)
+
+# Day 9
+- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%209/238.%20Product%20of%20Array%20Except%20Self.java)
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%209/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java)
+- [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%209/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.java)
