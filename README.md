@@ -37,3 +37,6 @@
 
 # Day 10
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2010/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java)
+
+# Day 11
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2011/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)
