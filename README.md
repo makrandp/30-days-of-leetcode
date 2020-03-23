@@ -40,3 +40,8 @@
 
 # Day 11
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2011/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)
+
+# Day 12
+- [268. Missing Number](https://leetcode.com/problems/missing-number/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2012/268.%20Missing%20Number.java)
+- [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2012/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.java)
+- [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2012/41.%20First%20Missing%20Positive.java)
