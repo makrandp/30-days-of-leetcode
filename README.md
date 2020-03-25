@@ -48,3 +48,7 @@
 
 # Day 13
 - [46. Permutations](https://leetcode.com/problems/permutations/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2013/46.%20Permutations.java)
+
+# Day 14
+- [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2014/929.%20Unique%20Email%20Addresses.java)
+- [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2014/1146.%20Snapshot%20Array.java)
