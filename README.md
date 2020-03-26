@@ -52,3 +52,6 @@
 # Day 14
 - [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2014/929.%20Unique%20Email%20Addresses.java)
 - [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2014/1146.%20Snapshot%20Array.java)
+
+# Day 15
+- [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%2015)
