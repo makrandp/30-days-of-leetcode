@@ -55,3 +55,6 @@
 
 # Day 15
 - [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2015/416.%20Partition%20Equal%20Subset%20Sum.java)
+
+# Day 16
+- [Google | OA 2018 | Min Abs Difference of Server Loads](https://leetcode.com/discuss/interview-question/356433/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2016/Google%20%7C%20OA%202018%20%7C%20Min%20Abs%20Difference%20of%20Server%20Loads.java)
