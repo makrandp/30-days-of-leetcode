@@ -63,3 +63,6 @@
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2017/70.%20Climbing%20Stairs.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2017/125.%20Valid%20Palindrome.java)
 - [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2017/328.%20Odd%20Even%20Linked%20List.java)
+
+# Day 18
+- [494. Target Sum](https://leetcode.com/problems/target-sum/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/tree/master/Day%2018)
