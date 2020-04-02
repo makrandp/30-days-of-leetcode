@@ -72,3 +72,6 @@
 
 # Day 20
 - [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2020/811.%20Subdomain%20Visit%20Count.java)
+
+# Day 21
+- [136. Single Number](https://leetcode.com/problems/single-number/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2021/136.%20Single%20Number.java)
