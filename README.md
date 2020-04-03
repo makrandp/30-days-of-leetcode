@@ -75,3 +75,6 @@
 
 # Day 21
 - [136. Single Number](https://leetcode.com/problems/single-number/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2021/136.%20Single%20Number.java)
+
+# Day 22
+- [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2022/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence.java)
