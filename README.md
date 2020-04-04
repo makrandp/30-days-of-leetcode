@@ -78,3 +78,6 @@
 
 # Day 22
 - [298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2022/298.%20Binary%20Tree%20Longest%20Consecutive%20Sequence.java)
+
+# Day 23
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2023/200.%20Number%20of%20Islands.java)
