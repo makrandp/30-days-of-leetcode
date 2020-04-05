@@ -81,3 +81,6 @@
 
 # Day 23
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2023/200.%20Number%20of%20Islands.java)
+
+# Day 24
+- [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2024/130.%20Surrounded%20Regions.java)
