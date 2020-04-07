@@ -88,3 +88,6 @@
 # Day 25
 - [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2025/286.%20Walls%20and%20Gates.java)
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2025/994.%20Rotting%20Oranges.java)
+
+# Day 26
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2026/2.%20Add%20Two%20Numbers.java)
