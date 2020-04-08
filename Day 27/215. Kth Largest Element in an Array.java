@@ -36,7 +36,7 @@ class Solution {
     
     
     private int partition(int[] nums, int low, int high) {
-        if(low == high) {
+        if(low >= high) {
             return low;
         }
         
