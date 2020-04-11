@@ -103,3 +103,6 @@
 # Day 29
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2029/100.%20Same%20Tree.java)
 - [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2029/572.%20Subtree%20of%20Another%20Tree.java)
+
+# Day 30
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) : [Solution](https://github.com/makrandp/30-days-of-leetcode/blob/master/Day%2030/21.%20Merge%20Two%20Sorted%20Lists.java)
