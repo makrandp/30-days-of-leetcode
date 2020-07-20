@@ -1,5 +1,11 @@
 # 30DaysOfLeetcode
 
+
+# July Leetcoding Challenge
+- [Remove Linked List Elements](https://github.com/makrandp/30-days-of-leetcode/blob/master/July%20Leetcoding%20Challenge/Remove%20Linked%20List%20Elements.java)
+
+
+
 ## Here I will be solving 30 leetcode problems in 30 days using Java
 
 # Day 1
