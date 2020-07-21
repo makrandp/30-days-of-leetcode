@@ -3,6 +3,7 @@
 
 # July Leetcoding Challenge
 - [Remove Linked List Elements](https://github.com/makrandp/30-days-of-leetcode/blob/master/July%20Leetcoding%20Challenge/Remove%20Linked%20List%20Elements.java)
+- [Word Search](https://github.com/makrandp/30-days-of-leetcode/blob/master/July%20Leetcoding%20Challenge/Word%20Search.java)
 
 
 
